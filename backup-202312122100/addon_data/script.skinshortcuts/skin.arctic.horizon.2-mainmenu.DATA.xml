@@ -1,0 +1,27 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>342</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>ActivateWindow(1130)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV Shows</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/director.png</thumb>
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>$SKIN[31085|skin.arctic.horizon.2|None]</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/livetv.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+		<visible>PVR.HasTVChannels</visible>
+		</shortcut>
+	</shortcuts>

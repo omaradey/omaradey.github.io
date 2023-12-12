@@ -1,0 +1,192 @@
+# XBMC Media Center language file
+# Addon Name: Skin Variables
+# Addon id: script.skinvariables
+# Addon Provider: jurialmunkey
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2014-10-26 17:05+0000\n"
+"PO-Revision-Date: 2023-11-22 18:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4\n"
+
+#: /resources/lib/script.py
+msgctxt "#32000"
+msgid "Constructing Variables..."
+msgstr "Konstruiere Variablen..."
+
+#: /resources/lib/script.py
+msgctxt "#32001"
+msgid "Skin Variables"
+msgstr "Skin - Variablen"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32002"
+msgid "Skin Viewtypes"
+msgstr "Skin - Ansichtstypen"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32003"
+msgid "Constructing Viewtypes..."
+msgstr "Konstruiere Ansichtstypen..."
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32004"
+msgid "Choose viewtype"
+msgstr "Wähle Ansichtstyp"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32005"
+msgid "Building default rules for"
+msgstr "Erstelle Standardregeln für"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32006"
+msgid "Building definitions for view IDs..."
+msgstr "Erstelle Definitionen für Ansichts-IDs..."
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32007"
+msgid "Building visibility expressions..."
+msgstr "Erstelle sichtbare Ausdrucksformen..."
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32008"
+msgid "Building XML..."
+msgstr "Erstelle XML..."
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32009"
+msgid "Choose plugin to customise"
+msgstr "Anzupassendes Plugin wählen"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32010"
+msgid "Choose content to customise"
+msgstr "Anzupassenden Inhalt wählen"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32011"
+msgid "Reset all {} views..."
+msgstr "Alle {} Ansichten zurücksetzen..."
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32012"
+msgid "Add plugin view..."
+msgstr "Plugin-Ansicht hinzufügen..."
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32013"
+msgid "Customise viewtypes"
+msgstr "Ansichtstypen anpassen"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32014"
+msgid "Reset {} Views"
+msgstr "{} Ansichten zurücksetzen"
+
+#: /resources/lib/viewtypes.py
+msgctxt "#32015"
+msgid "Do you wish to reset all {} views to default"
+msgstr "Alle {} Ansichten auf Standard zurücksetzen"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32016"
+msgid "Choose item to modify"
+msgstr "Element zum Ändern auswählen"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32017"
+msgid "Choose item to delete"
+msgstr "Element zum Löschen auswählen"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32018"
+msgid ""
+"Successfully added\n"
+"[B]{}[/B]\n"
+"to\n"
+"[B]{}[/B]"
+msgstr ""
+"[B]{}[/B]\n"
+"erfolgreich hinzugefügt\n"
+"zu\n"
+"[B]{}[/B]"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32019"
+msgid "Import menu"
+msgstr "Menü importieren"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32020"
+msgid "Added to menu"
+msgstr "Menü hinzugefügt"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32021"
+msgid "Add to menu"
+msgstr "Menü hinzufügen"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32022"
+msgid "No skinshortcuts found to import."
+msgstr "Keine Skin-Verknüpfungen zum Import gefunden."
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32023"
+msgid "Add as menu"
+msgstr "Als Menü hinzufügen"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32024"
+msgid "Added as menu"
+msgstr "Als Menü hinzugefügt"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32025"
+msgid ""
+"Successfully added\n"
+"[B]{}[/B]\n"
+"as\n"
+"[B]{}[/B]"
+msgstr ""
+"[B]{}[/B]\n"
+"erfolgreich hinzugefügt\n"
+"als\n"
+"[B]{}[/B]"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32026"
+msgid "Overwrite menu"
+msgstr "Menü überschreiben"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32027"
+msgid "Importing will overwrite your current menus and setup. Are you sure?"
+msgstr "Menüs und Einstellungen werden überschrieben. Wirklich importieren?"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32028"
+msgid ""
+"Successfully imported\n"
+"[B]{}[/B]\n"
+"to\n"
+"[B]{}[/B]"
+msgstr ""
+"[B]{}[/B]\n"
+"erfolgreich importiert\n"
+"in\n"
+"[B]{}[/B]"
+
+#: /resources/lib/skinshortcuts.menu.py
+msgctxt "#32029"
+msgid "Choose item"
+msgstr "Element auswählen"

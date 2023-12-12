@@ -1,0 +1,65 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Video Playlists</name>
+            <path pathversion="1">special://videoplaylists/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Movies</name>
+            <path pathversion="1">/Users/omaradey/Movies/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+        <source>
+            <name>Music</name>
+            <path pathversion="1">/Users/omaradey/Music/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Music Playlists</name>
+            <path pathversion="1">special://musicplaylists/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+        <source>
+            <name>Pictures</name>
+            <path pathversion="1">/Users/omaradey/Pictures/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>tikipeter</name>
+            <path pathversion="1">https://tikipeter.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cocojoe</name>
+            <path pathversion="1">https://cocojoe2411.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>repository.jurialmunkey</name>
+            <path pathversion="1">https://jurialmunkey.github.io/repository.jurialmunkey/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>a4k-openproject</name>
+            <path pathversion="1">https://a4k-openproject.github.io/a4kSubtitles/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
